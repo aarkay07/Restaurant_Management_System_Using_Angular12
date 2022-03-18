@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 => install json server from here: https://github.com/typicode/json-server .
 => host the json db on json server.
 => Put db.zip folder seperately.
+=> to run json server : json-server --watch db.json
